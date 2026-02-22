@@ -1,4 +1,4 @@
-# EnergyCity
+  # EnergyCity
 GENIUS olympiad task
 # 🏙 Energy City Optimization Platform
 
@@ -97,3 +97,28 @@ Training convergence demonstrated via smoothed reward curve.
 
 ```bash
 pip install numpy matplotlib
+
+Run simulation platform
+pyhton web_app.py
+
+Train ADP policy
+pyhton train_adp.py
+
+
+📌 Limitations
+
+Buildings are aggregated into classes
+
+Behavioral responses are simplified
+
+Real-world calibration required
+
+🔬 Future Work
+
+Incorporating social inequality metrics
+
+Real-world energy price datasets
+
+Carbon emission constraints
+
+Multi-agent reinforcement learning
