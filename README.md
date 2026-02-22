@@ -1,0 +1,2 @@
+# EnergyCity
+GENIUS olympiad task
